@@ -1,0 +1,6 @@
+{
+  "name": "ChevarMaster - Tikuvchilar va Mijozlar Platformasi",
+  "description": "Tikuvchilar uchun professional eskiz chizish studiyasi, o'lchov va mato hisoblash hamda mijozlar buyurtma portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
